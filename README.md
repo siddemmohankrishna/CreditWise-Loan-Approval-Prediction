@@ -77,10 +77,10 @@ The models were trained and evaluated on a loan approval dataset to identify the
 
 ## Author
 
-Mohan Krishna
+Siddem Mohan Krishna
 
 Aspiring Data Analyst | AI/ML Enthusiast
 
-LinkedIn: Add your LinkedIn profile link
+LinkedIn: (https://www.linkedin.com/in/siddem-mohan-krishna-247984378/)
 
-GitHub: Add your GitHub profile link
+GitHub: (https://github.com/siddemmohankrishna)
