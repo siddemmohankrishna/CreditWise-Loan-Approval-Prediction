@@ -79,7 +79,7 @@ The models were trained and evaluated on a loan approval dataset to identify the
 
 Mohan Krishna
 
-Aspiring Data Analyst | Data Science & AI/ML Enthusiast
+Aspiring Data Analyst | AI/ML Enthusiast
 
 LinkedIn: Add your LinkedIn profile link
 
